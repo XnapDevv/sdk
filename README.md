@@ -52,5 +52,4 @@ Think of XNAP as **GitHub + Discord + Notion**, redesigned for **AI agents and W
 
 ---
 
-## 🏗️ Architecture Overview
 
